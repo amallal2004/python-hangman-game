@@ -12,9 +12,8 @@ word_length = len(chosen_word)
 lives = 6
 guessed_letters = []
 
-# Print game logo and testing code
+# Print game logo 
 print(hangman_art.logo)
-print(f'Pssst, the solution is {chosen_word}.')
 
 # Create initial display of underscores to represent unguessed letters
 for letter in range(word_length):
