@@ -35,7 +35,5 @@ The following resources were used in the development of this project:
 
 Special thanks to Angela Yu for providing the 100 Days of Code course on Udemy, which inspired this project.
 
-The ASCII art used in this project was created by Christopher Johnson. The word list used in this project was provided by The Hangman Project.
-
 Thanks to all these people and organizations for their contributions to the development of this project.
 
